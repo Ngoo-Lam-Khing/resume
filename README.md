@@ -1,13 +1,13 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/NgooLamKhing)
 
-::: center
-**Lam-Khing Ngoo**\
-Frontend Engineer $\bullet$ +886-936-670-891 $\bullet$
-a1993112@gmail.com <https://github.com/Ngoo-Lam-Khing> $\bullet$
-[www.linkedin.com/in/ngoo-lam-khing](www.linkedin.com/in/ngoo-lam-khing){.uri}
-:::
 
-# Introduction {#introduction .unnumbered}
+**Lam-Khing Ngoo**\
+Frontend Engineer  
++886-936-670-891  
+a1993112@gmail.com <https://github.com/Ngoo-Lam-Khing>  
+[www.linkedin.com/in/ngoo-lam-khing](www.linkedin.com/in/ngoo-lam-khing)
+
+# Introduction
 
 ------------------------------------------------------------------------
 
@@ -16,11 +16,10 @@ high-performance web applications. Skilled in JavaScript, TypeScript,
 Scss, modern front-end frameworks like Vue.js, Nuxt.js, creating
 reusable components, and optimizing web performance.
 
-# Experience {#experience .unnumbered}
+# Experience
 
-------------------------------------------------------------------------
 
-## Garena 2022/05 - present {#garena-202205---present .unnumbered}
+## Garena (2022/05 - present)
 
 Frontend Engineer Taipei\
 Skills: JavaScript, TypeScript, Vue.js, Nuxt.js, Scss, GitLab, Vite,
@@ -43,7 +42,7 @@ Docker
 
 -   Improved web performance with code splitting, gzip, webp
 
-## MSI 2020/05 - 2022/05 {#msi-202005---202205 .unnumbered}
+## MSI (2020/05 - 2022/05)
 
 Frontend Engineer New Taipei\
 Skills: JavaScript, Vue.js, jQuery, Sass, Laravel, GitLab, Slack, Jira
@@ -57,7 +56,7 @@ Skills: JavaScript, Vue.js, jQuery, Sass, Laravel, GitLab, Slack, Jira
 -   Designed reusable Vue components, increasing development speed by
     40%
 
-## Institute for Information Industry 2019/11 - 2020/04 {#institute-for-information-industry-201911---202004 .unnumbered}
+## Institute for Information Industry (2019/11 - 2020/04)
 
 Frontend Engineer (Trainee) Taipei\
 Skills: JavaScript, jQuery, React.js, Redux, Bootstrap, Node.js, PHP,
@@ -66,32 +65,28 @@ GitHub, MySQL
 -   Completed intensive frontend & backend training, building full-stack
     web applications
 
-## Google 2018/12 - 2019/09 {#google-201812---201909 .unnumbered}
+## Google (2018/12 - 2019/09)
 
 Street View Specialist Taiwan
 
 -   Contributed to Google Maps and Street View projects through photo
     collection
 
-## National Cheng Kung University 2017/05 - 2018/10 {#national-cheng-kung-university-201705---201810 .unnumbered}
+## National Cheng Kung University (2017/05 - 2018/10)
 
 Research Associate Taiwan
 
 -   Conducted urban planning research and participated in archaeological
     excavations
 
-# Education, Certification and Other information {#education-certification-and-other-information .unnumbered}
+# Education, Certification and Other information
 
-------------------------------------------------------------------------
-
-## National Taiwan Normal University 2011/09 - 2015/06 {#national-taiwan-normal-university-201109---201506 .unnumbered}
-
+## National Taiwan Normal University (2011/09 - 2015/06)
 B.A. in Geography, GPA: 3.87 / 4.0 Taipei
 
--   Completed a teaching practicum at Wen-Hua Senior High School 2015/08
-    2016/01
+-   Completed a teaching practicum at Wen-Hua Senior High School (2015/08 - 2016/01)
 
-Military Service 2016/03 - 2017/03\
+Military Service (2016/03 - 2017/03)\
 IELTS: Overall: 7.0 (Listening: 6.5, Reading: 8.0, Writing: 6.5,
-Speaking: 6.0) 2024/04\
+Speaking: 6.0) (2024/04)\
 Language: Taiwanese, Mandarin, English
